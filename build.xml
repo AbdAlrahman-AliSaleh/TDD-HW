@@ -3,8 +3,8 @@
 <project default="compile">
 
 
-    <property name="src.java.dir" location="./src/CalClass/ClassC"/>
-    <property name="src.test.dir" location="./src/CalClassTest/ClassT"/>
+    <property name="src.java.dir" location="./src/CalClass"/>
+    <property name="src.test.dir" location="./src/CalClassTest"/>
     <property name="result.dir" location="./target"/>
     
     
@@ -16,7 +16,7 @@
 
 
     <path id="NecessaryLibraries">
-        <pathelement location="./UsedLibraries/junit-4.12.jar"/>
+        <pathelement location="./UsedLibraries/junit-4.13.jar"/>
         <!--matcher-->
         <pathelement location="./UsedLibraries/hamcrest-core-1.3.jar"/>
         <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
