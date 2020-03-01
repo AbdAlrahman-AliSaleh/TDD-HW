@@ -3,8 +3,8 @@
 <project default="compile">
 
 
-    <property name="src.java.dir" location="./src/CalClass"/>
-    <property name="src.test.dir" location="./src/CalClassTest"/>
+    <property name="src.java.dir" location="./src/CalClass/ClassC"/>
+    <property name="src.test.dir" location="./src/CalClassTest/ClassT"/>
     <property name="result.dir" location="./target"/>
     
     
