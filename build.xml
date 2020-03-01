@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project default="compile">
+<project default="test">
 
 
     <property name="src.java.dir" location="./src/CalClass"/>
